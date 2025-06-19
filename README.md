@@ -1,2 +1,2 @@
-# vspractice
-Practice with Visual Code
+# nyupython
+NYU Python Advance Class
